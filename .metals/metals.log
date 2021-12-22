@@ -1,0 +1,14 @@
+[0m2021.12.02 10:45:21 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\pc7\Documents\Projets Lionel\rando-web' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.02 10:45:28 INFO  time: initialize in 7.2s[0m
+[0m2021.12.02 10:45:32 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.02 10:45:32 WARN  no build tool detected in workspace 'C:\Users\pc7\Documents\Projets Lionel\rando-web'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+déc. 02, 2021 10:45:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+déc. 02, 2021 12:33:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.02 16:09:27 INFO  shutting down Metals[0m
+[0m2021.12.09 16:35:41 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\pc7\Documents\Projets Lionel\rando-web' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.09 16:35:45 INFO  time: initialize in 3.81s[0m
+[0m2021.12.09 16:35:51 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.09 16:35:51 WARN  no build tool detected in workspace 'C:\Users\pc7\Documents\Projets Lionel\rando-web'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.10 08:38:47 INFO  shutting down Metals[0m
